@@ -1,0 +1,5 @@
+Problem 1:
+    74
+
+Problem 2:
+    1795
